@@ -1,0 +1,28 @@
+{
+    "id": "97A891F6",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1729734925244.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "id": "9f4f939c5c924e3b98031f928551c856",
+        "name": "word_doc",
+        "title": "word_doc",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2426379693816,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1729734925244,
+    "read_only": false,
+    "read_only_alternatives": []
+}
